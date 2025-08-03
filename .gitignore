@@ -178,6 +178,8 @@ products_vectorstore/
 
 # ignore diagnostics reports
 **/report.txt
+*.jsonl
+*.csv
 
 # ignore optimized C++ code from being checked into repo
 week4/optimized
