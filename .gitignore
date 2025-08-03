@@ -180,6 +180,8 @@ products_vectorstore/
 **/report.txt
 *.jsonl
 *.csv
+*_prompt*.txt
+*_log*.txt
 
 # ignore optimized C++ code from being checked into repo
 week4/optimized
